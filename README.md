@@ -1,7 +1,5 @@
 # E-Mattress
 #### Jun-Yu (Andrew) Chen, Ting-Kai Chiu, Hsin-Hui Lee, Zi-Yi Tai, Jyun-Zhe Tang, You-Xian Weng
-![](https://user-images.githubusercontent.com/64970325/129433493-a36618ea-27a2-45b8-bba9-a40daec9f586.jpg)
-
 
 ## Introduction
 A medical-oriented Air-Conditioning System used in bed implementing water-cooling technology and precise, complete PID feedback control for medical usages and to lower electricity consumption comparing to traditional air-conditioners.
